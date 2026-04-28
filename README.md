@@ -18,4 +18,4 @@ Github stats profile link: https://ghstats.dev/#try
 -->
 ## GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=jonesy200&theme=tokyonight&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=jonesy200&theme=ocean&hide_border=true&hide_title=true&hide=hours)
